@@ -1,30 +1,53 @@
 # Hi, I'm Saghar Siddique 👋
 
-**Python Developer (Freelance)** — I build data automation, web scrapers and Streamlit dashboards for small businesses.
+**Freelance Python Developer** — I help small businesses turn messy data into clean, automated systems.
 
-📍 Lahore, Pakistan
-💼 Open for freelance projects: data cleaning, Excel automation, web scraping, dashboards
-🎓 BS Software Engineering @ NUML · 3.77 CGPA
-🔗 [LinkedIn](https://www.linkedin.com/in/saghar-siddique-dev)
+🧹 Data Cleaning & Excel Automation · 🕷️ Web Scraping · 📊 Streamlit Dashboards · 🤖 AI Integration
 
-## 🛠️ What I do
+📍 Lahore, Pakistan · 🌍 Available remotely, worldwide
+💼 **Open for freelance projects** → [LinkedIn](https://www.linkedin.com/in/saghar-siddique-dev)
 
-- 🧹 **Data cleaning & Excel automation** — messy CSVs/Excel in, clean data + reports out
-- 🕷️ **Web scraping** — prices, listings & business data → structured CSV/SQLite
-- 📊 **Streamlit dashboards** — interactive reports from your data
-- 🤖 **AI integration** — voice/text parsing, LLM-powered workflows (Groq, Whisper)
+---
+
+## 🛠️ What I do for clients
+
+| Service | What you get |
+|---|---|
+| 🧹 **Data cleaning & Excel automation** | Messy CSVs / Excel in → clean data + quality reports out |
+| 🕷️ **Web scraping** | Prices, listings, business data → structured CSV / SQLite |
+| 📊 **Streamlit dashboards** | Interactive KPIs and reports from your data |
+| 🤖 **AI integration** | Voice & text parsing, LLM-powered workflows (Groq, Whisper) |
 
 ## 📌 Featured projects
 
-- 📒 **[KhataGuard](https://github.com/Saghar-Siddique/KhataGuard)** — AI voice-to-ledger for Pakistani shopkeepers. Speak in Urdu, Roman Urdu or English → validated transaction entry. Streamlit · SQLite · Groq · Whisper · 29 tests.
-- 🏪 **[Shop-Sales-Automation](https://github.com/Saghar-Siddique/Shop-Sales-Automation)** — Advanced sales-data cleaning pipeline: fuzzy name matching, currency stripping, quarantine review, outlier detection + interactive dashboard. 14 tests.
+### 📒 [KhataGuard](https://github.com/Saghar-Siddique/KhataGuard)
+**AI voice-to-ledger for Pakistani shopkeepers.** Speak in Urdu, Roman Urdu or English → a validated transaction entry. No typing required.
+`Python` `Streamlit` `SQLite` `Groq` `Whisper` · 29 tests · 32-case parser eval
 
-## 🧰 Stack
+### 🏪 [Shop-Sales-Automation](https://github.com/Saghar-Siddique/Shop-Sales-Automation)
+**Professional sales-data cleaning pipeline.** Fuzzy name matching, currency stripping, quarantine review for bad rows, IQR outlier detection — plus an interactive Streamlit dashboard with live cleaning toggles.
+`Python` `pandas` `Streamlit` `Plotly` · 14 tests
 
-Python · pandas · Streamlit · SQLite · BeautifulSoup · requests · Plotly · Groq/LLMs · Whisper · Java · C++ · SQL
+## 🧰 Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1)
+
+## 📊 GitHub stats
+
+![Saghar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saghar-Siddique&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saghar-Siddique&layout=compact)
 
 ## 🎓 Background
 
-- 🥇 1st Position, BSSE 1st Semester (NUML)
-- 🤖 Pak Angels Generative + Agentic AI Hackathon — built KhataGuard there
-- 📜 NAVTTC Social Media Marketing Specialist (A+)
+- 🥇 **1st Position**, BSSE 1st Semester (NUML Lahore) · CGPA 3.77
+- 🤖 **ASPIRE Pakistan** — Generative & Agentic AI Training (Cohort 11, 96%) · built KhataGuard at the Pak Angels hackathon
+- 📜 **NAVTTC** Social Media Marketing Specialist (A+)
