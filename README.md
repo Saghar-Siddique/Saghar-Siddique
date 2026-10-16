@@ -28,6 +28,10 @@
 **Professional sales-data cleaning pipeline.** Fuzzy name matching, currency stripping, quarantine review for bad rows, IQR outlier detection — plus an interactive Streamlit dashboard with live cleaning toggles.
 `Python` `pandas` `Streamlit` `Plotly` · 14 tests
 
+### 🏷️ [Price-Tracker](https://github.com/Saghar-Siddique/Price-Tracker)
+**Daraz.pk price monitoring.** Headless-Chromium scraper captures exact sale prices, SQLite stores every check, smart alerts on price drops and target-price hits — plus a Streamlit dashboard with Plotly trend charts.
+`Python` `Playwright` `Streamlit` `SQLite` `Plotly` · 30 tests
+
 ## 🧰 Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
