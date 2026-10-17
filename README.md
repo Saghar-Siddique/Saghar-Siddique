@@ -41,8 +41,6 @@
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1)
 
 ## 📊 GitHub stats
