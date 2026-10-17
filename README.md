@@ -51,5 +51,5 @@
 ## 🎓 Background
 
 - 🥇 **1st Position**, BSSE 1st Semester (NUML Lahore) · CGPA 3.77
-- 🤖 **ASPIRE Pakistan** — Generative & Agentic AI Training (Cohort 11, 96%) · built KhataGuard at the Pak Angels hackathon
+- 🤖 **ASPIRE Pakistan** — Generative & Agentic AI Training (Cohort 11, 96%) · **Top Performer** (Cert. PAGAI-TP-0597) · built KhataGuard at the Pak Angels hackathon
 - 📜 **NAVTTC** Social Media Marketing Specialist (A+)
